@@ -1,0 +1,18 @@
+.body{
+    background-color: rgb(215, 250, 221);
+}
+.container{
+    border: 12px;
+    text-align: center;
+}
+.lable{
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+
+}
+
+.submit{
+    background-color: blueviolet;
+    text-align: center;
+}
